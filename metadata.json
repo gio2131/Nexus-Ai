@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Interface",
+  "description": "A ChatGPT-like chat interface powered by Gemini.",
+  "requestFramePermissions": []
+}
